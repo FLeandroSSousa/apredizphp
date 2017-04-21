@@ -1,0 +1,9 @@
+<?php
+<div class="row">
+<a href="#">Inicio</a>
+        <li >Cadastro</li>
+        <h1>Cadastro realizado com sucesso!</h1>
+<hr/>
+        </div>
+        <h4>Seja benvidos</h4>
+        
